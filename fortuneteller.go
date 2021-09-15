@@ -1,5 +1,5 @@
 package fortuneteller
 
 func tellFortune() string {
-	return "The early bid catches something!"
+	return "The early bird catches the worm!"
 }
